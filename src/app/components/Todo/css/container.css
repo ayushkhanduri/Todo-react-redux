@@ -1,0 +1,23 @@
+.container{
+    padding: 15px;
+    width: 40% !important;
+    background-image: url("https://image.freepik.com/free-photo/white-crumpled-paper-texture-for-background_1373-159.jpg");
+    background-repeat: repeat-y;
+    border: 1px solid #eee;
+    position: absolute;
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+}
+.container > h1 {
+    margin-top: 10px;
+}
+
+.application {
+    margin-top: 3%;
+}
+.center{
+    text-align: center;
+}

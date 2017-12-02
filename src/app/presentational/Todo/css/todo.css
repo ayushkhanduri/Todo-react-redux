@@ -1,0 +1,9 @@
+#todoform > .form-control{
+    width: 70%;
+    display: inline-block;
+}
+
+#todoform > .btn{
+    display: inline-block;
+    margin-left: 10%;
+}

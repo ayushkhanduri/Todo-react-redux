@@ -1,0 +1,8 @@
+.filters {
+    list-style-type: none;
+    padding: 0px;
+}
+
+.filters > li {
+    display: inline;
+}

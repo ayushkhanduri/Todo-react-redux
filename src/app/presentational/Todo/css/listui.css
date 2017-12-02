@@ -1,0 +1,16 @@
+#allTodos {
+    margin-top: 3%;
+}
+
+.item {
+    padding: 1%;
+    margin: 3%;
+}
+.lineThrough{
+    text-decoration: line-through;
+    opacity: 0.5 !important;
+}
+
+#allTodos > div {
+    opacity: 1;
+}
